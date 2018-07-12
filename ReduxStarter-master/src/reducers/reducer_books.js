@@ -5,4 +5,4 @@ export default function() {
         { title : 'CC'},
         { title : 'DD'}
     ]
-}
+} 
